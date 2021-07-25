@@ -6,7 +6,7 @@
 [![GitHub](https://img.shields.io/badge/AlexJanow-Follow%20me%20%3A%29-white?style=social&logo=github)](https://github.com/AlexJanow)
 
 ## Some fun stuff:
-[![Codewars](https://img.shields.io/badge/-Join%20AlexJanow%20on%20Codewars!-grey?style=flat&logo=Codewars&labelColor=grey&logoColor=red)](www.codewars.com/r/oimoiA)<br>
+[![Codewars](https://img.shields.io/badge/-Join%20AlexJanow%20on%20Codewars!-grey?style=flat&logo=Codewars&labelColor=grey&logoColor=red)](http://www.codewars.com/r/oimoiA)<br>
 ![Codewars Banner](https://www.codewars.com/users/AlexJanow/badges/large)<br>
 
 <!--
