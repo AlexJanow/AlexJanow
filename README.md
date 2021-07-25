@@ -1,5 +1,11 @@
-### Hi there 👋
+<center> #Hi there 👋</center>
 
+## Let's connect!
+[LinkedIn](https://www.linkedin.com/in/alexander-janowski-4539b119a/)
+
+
+![Codewars Banner](https://www.codewars.com/users/AlexJanow/badges/large)<br>
+[Join me at Codewars!](www.codewars.com/r/oimoiA)
 <!--
 **AlexJanow/AlexJanow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
