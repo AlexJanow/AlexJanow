@@ -2,7 +2,7 @@
  
  
 ## Let's connect!
-[![LinkedIn](https://img.shields.io/badge/Alexander%20Janowski-blue?style=flat-square&logo=linkedin&labelColor=blue&style=)](https://www.linkedin.com/in/alexander-janowski-4539b119a/)
+[![LinkedIn](https://img.shields.io/badge/Alexander%20Janowski-blue?style=flat-square&logo=linkedin&labelColor=blue&style=)](https://www.linkedin.com/in/alexander-janowski-4539b119a/)<br>
 [![GitHub](https://img.shields.io/badge/AlexJanow-Follow%20me%20%3A%29-white?style=social&logo=github)](https://github.com/AlexJanow)
 
 [![Codewars](https://img.shields.io/badge/-Join%20AlexJanow%20on%20Codewars!-grey?style=flat&logo=Codewars&labelColor=grey&logoColor=red)](www.codewars.com/r/oimoiA)<br>
